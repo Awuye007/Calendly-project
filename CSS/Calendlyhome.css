@@ -1,0 +1,119 @@
+.navbar{
+    height: 120px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+}
+
+img{
+    margin-left: 130px;
+    margin-right: 90px;
+}
+
+.hero{
+    margin-top: 110px;
+    margin-bottom: 100px;
+}
+
+.hero-text{
+    margin-left: 150px;
+}
+
+.easy{
+    font-size: 100px;
+    font-family: 'Fredoka One', 'cursive';
+
+}
+
+.blue{
+    color: rgb(0, 94, 255);
+}
+
+.calendly-image{
+    height: 700px;
+    width: 850px;
+    margin-right: 50px;
+}
+
+.easy-text{
+    font-size: 26px;
+    font-weight: 500;
+}
+
+input[type='email']{
+    height: 70px;
+    width: 400px;
+    font-size: 20px;
+}
+
+button[type='submit']{
+    height: 70px;
+    width: 130px ;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.form-text{
+    font-size: 20px;
+}
+
+.gray-background{
+    height: 400px;
+    background-color: rgb(233, 233, 233);
+    margin-bottom: 100px;
+}
+
+.scheduling{
+    padding-top: 90px;
+    font-size: 50px;
+}
+
+.scheduling-digit{
+    color: rgb(0, 94, 255);
+}
+
+.company-logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.footer{
+    margin-left: 50px;
+}
+
+.body1{
+    height: 50px;
+    position: relative;
+    top: -29px;
+    left: 15px;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.body2{
+    border-left: solid #d4d4d4 0.5px;
+    height: 150px;
+    position: relative;
+    top: -70px;
+    font-size: 18px;
+    font-weight: 470;
+}
+
+.con{
+    margin-left: 400px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one,.two{
+    height: 400px;
+}
+

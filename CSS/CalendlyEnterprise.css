@@ -1,0 +1,156 @@
+.navbar{
+    height: 120px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+}
+
+img{
+    margin-left: 130px;
+    margin-right: 90px;
+}
+
+.heading{
+    height: 500px;
+    margin-top: 100px;
+}
+
+.way{
+    font-size: 68px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    font-family: 'Fredoka One', 'cursive';
+}
+
+.paragraph{
+    font-size: 25px;
+    font-weight: 500 ;
+}
+
+.black-button{
+    margin-left: 900px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 40px;
+}
+
+.company-logos{
+        margin-bottom: 90px;
+        height: 200px;
+        width: 1800px;
+        margin-left: 100px;
+        background: rgb(0,63,125);
+        background: linear-gradient(90deg, rgba(0,63,125,1) 22%, rgba(7,19,98,0.9500175070028011) 30%, rgba(2,17,62,1) 64%);
+}
+
+.logos{
+    padding-top: 60px;
+}
+
+.neu-cards{
+    margin-bottom: 40px;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.neumorphism{
+    height: 650px;
+    width: 380px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    box-shadow: -10px -10px 10px rgba(206, 206, 206, 0.59), 10px 10px 10px rgba(206, 206, 206, 0.59);
+}
+
+.neu-heading{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 60px;
+    color: rgb(0, 94, 255);
+    font-weight: bold;
+}
+
+.neu-images{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+
+.neu-text{
+    margin-left: 50px;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.button{
+    margin-bottom: 70px;
+}
+
+.list-left{
+    margin-left: 50px;
+}
+
+
+
+.list{
+    height: 400px;
+    margin-left: 300px;
+}
+
+.big-list-heading{
+    font-size: 40px;
+    color: rgb(1, 41, 50);
+    font-weight: bolder;
+    margin-bottom: 15px ;
+}
+
+.light-blue{
+    color: rgb(0, 94, 255);
+}
+
+.list-text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: rgb(22, 22, 138);
+}
+
+.form-select{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.list-header{
+    margin-bottom: 23px;
+    color: rgb(1, 41, 50);
+    font-weight: bolder;
+}
+
+.individual-list{
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.list-link{
+    color: rgb(22, 22, 138);
+    font-size: 20px;
+    font-weight: 600;
+}
+

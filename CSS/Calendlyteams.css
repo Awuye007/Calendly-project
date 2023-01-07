@@ -1,0 +1,231 @@
+.navbar{
+    height: 120px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+}
+
+img{
+    margin-left: 130px;
+    margin-right: 90px;
+}
+
+.hero{
+    margin-top: 110px;
+    margin-bottom: 100px;
+}
+
+.hero-text{
+    margin-left: 150px;
+}
+
+.easy{
+    font-size: 80px;
+    font-family: 'Fredoka One', 'cursive';
+}
+
+.blue{
+    color: rgb(0, 94, 255);
+}
+
+.calendly-image{
+    height: 600px;
+    width: 800px;
+    margin-right: 50px;
+}
+
+.easy-text{
+    font-size: 26px;
+}
+
+.blue-button,.white-button{
+    height: 70px;
+    width: 250px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.white-button{
+    color: black;
+    background-color: white;
+    border: 2px soltd black;
+}
+
+.white-button:hover{
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.streamline{
+    margin-bottom: 80px;
+}
+
+.streamline-text{
+    font-size: 70px;
+    color: rgb(0, 68, 83);
+}
+
+.hero-two{
+    padding-top: 30px;
+    margin-bottom: 100px;
+    height: 400px;
+}
+
+.small{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 94, 255);
+}
+
+.small-heading{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.second{
+    height: 370px;
+    width: 640px;
+    padding-right: 60px;
+}
+
+.hero-part2{
+    margin-left: 90px;
+    padding-left: 60px;
+    
+}
+
+.article{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.solutions{
+    margin-bottom: 50px;
+}
+
+.card-img-top{
+    margin: 0px;
+}
+
+.cards{
+    margin-bottom: 90px;
+}
+
+.reps{
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+}
+
+.card{
+    margin-right: 30px;
+    box-shadow: -10px -10px 15px rgb(240, 239, 239),10px 10px 20px rgb(160, 160, 160);
+}
+
+.one{
+    height: 290px;
+}
+.two{
+    height: 280px;
+}
+
+.text-one{
+    margin-bottom: 40px;
+}
+
+.card-text{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(111, 111, 111);
+}
+
+.card-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.symbol{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.list{
+    height: 400px;
+    margin-left: 250px;
+}
+
+.big-list-heading{
+    font-size: 40px;
+    color: rgb(1, 41, 50);
+    font-weight: bolder;
+    margin-bottom: 15px ;
+}
+
+.light-blue{
+    color: rgb(0, 94, 255);
+}
+
+.list-text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: rgb(22, 22, 138);
+}
+
+.form-select{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.list-header{
+    margin-bottom: 20px;
+    color: rgb(1, 41, 50);
+    font-weight: bolder;
+}
+
+.individual-list{
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.list-link{
+    color: rgb(22, 22, 138);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.list-left{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
